@@ -1,1 +1,1 @@
-# git.intro
+# git_intro
